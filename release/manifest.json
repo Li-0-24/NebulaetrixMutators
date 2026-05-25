@@ -1,0 +1,10 @@
+{
+    "name": "NebulaetrixMutators",
+    "version_number": "1.0.0",
+    "website_url": "",
+    "description": "13 mutators (Devil Daggers, Marathon, Zen, Glass, Wind Tunnel, etc.) for the Campaign settings panel. Combine modes for named combos. Originally by Nebulaetrix; ported to use the Trinket & Binding Framework's settings UI.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2305",
+        "CiCisMods-CiCisTrinketAndBindingFramework-2.0.0"
+    ]
+}
